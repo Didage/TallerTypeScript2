@@ -1,5 +1,5 @@
 import { series } from "./data.js";
-import { Serie } from "./serie.js";
+
 
 let info = series;
 
